@@ -1,2 +1,7 @@
 Sample file
+<<<<<<< c237b3fcd656539e0deb1a8e62ed3b28739e0e74
 changed
+=======
+
+added line 2i
+>>>>>>> Change done to sample.txt
