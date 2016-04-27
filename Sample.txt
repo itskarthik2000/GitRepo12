@@ -15,3 +15,4 @@ added line 2i
 >>>>>>> Change done to sample.txt
 =======
 >>>>>>> fe947df043c3872b02a2192adc4b8f48f4ae2c72
+Hello
