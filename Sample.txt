@@ -1,11 +1,17 @@
 Sample file
 <<<<<<< c237b3fcd656539e0deb1a8e62ed3b28739e0e74
 changed
+<<<<<<< HEAD
 <<<<<<< 900e28250e6963cfb611f2ad8b9d211ce9edd585
 123
 =======
 =======
+>>>>>>> fe947df043c3872b02a2192adc4b8f48f4ae2c72
+=======
 
 added line 2i
 >>>>>>> Change done to sample.txt
+<<<<<<< HEAD
 >>>>>>> Change done to sample.txt
+=======
+>>>>>>> fe947df043c3872b02a2192adc4b8f48f4ae2c72
