@@ -17,4 +17,14 @@ added line 2i
 >>>>>>> fe947df043c3872b02a2192adc4b8f48f4ae2c72
 Hello
 
+<<<<<<< .merge_file_a04656
 Master Sample
+=======
+Hello
+
+Hello
+
+Hello
+
+Hello
+>>>>>>> .merge_file_a03132
